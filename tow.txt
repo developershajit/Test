@@ -1,0 +1,2 @@
+This is a android Mobile development for programming language java backend php date bashe for mysql
+Android built in SQLite for backend databash for the user data 
